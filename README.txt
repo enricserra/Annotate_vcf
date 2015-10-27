@@ -1,4 +1,4 @@
-Add information contained in VCF files to a main vcf file.
+Add information contained in VCF files to a main vcf file, in matching variants.
 
    Usage:
     
